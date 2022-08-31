@@ -51,6 +51,3 @@ I love to create different types of **contents**.                               
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
-=======
-</p>
->>>>>>> 7b55a9ddd16cdb9c1872a2bf3c3c59c35247bab0
