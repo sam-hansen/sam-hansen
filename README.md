@@ -19,7 +19,7 @@ I love to create different types of **contents**.|
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sam-hansen&theme=dracula&hide_border=true)  
 
-</p>
+</div>
 
 ### Connect with Me
 
