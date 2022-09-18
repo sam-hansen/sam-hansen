@@ -1,17 +1,19 @@
 name: Update README
 
 on:
-    pull_request:
-
     schedule:  
         - cron: '30 12 * * *'
 
+permissions: read-all|write-all
+
 jobs:
+    name: Update this repo's README with recent activity
     build:  
         runs-on: ubuntu-latest
-        name: Update this repo's README with recent activity
-        steps:  
-            -uses: actions/checkout@v3 
-            -uses: jamesgeorge007/github-activity-readme@master
-            env:
-                GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+        steps:
+            - name: Checking Out
+              uses: actions/checkout@v3
+            - name: Using Repo
+              uses: jamesgeorge007/github-activity-readme@master
+                env:
+                    GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
