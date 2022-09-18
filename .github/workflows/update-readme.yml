@@ -7,9 +7,9 @@ on:
 permissions: read-all|write-all
 
 jobs:
-    name: Update this repo's README with recent activity
     build:  
         runs-on: ubuntu-latest
+        name: Update this repo's README with recent activity
         steps:
             - name: Checking Out
               uses: actions/checkout@v3
