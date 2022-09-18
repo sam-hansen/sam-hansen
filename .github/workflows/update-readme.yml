@@ -4,7 +4,7 @@ on:
     pull_request:
 
     schedule:  
-        - cron: '*/30 * * * *'
+        - cron: '30 12 * * *'
 
 jobs:
     build:  
@@ -13,6 +13,5 @@ jobs:
         steps:  
             -uses: actions/checkout@v3 
             -uses: jamesgeorge007/github-activity-readme@master
-
-                env:
-                    GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+            env:
+                GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}

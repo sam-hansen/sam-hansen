@@ -44,16 +44,5 @@ I love to create different types of **contents**.                               
 ### Connect with Me
 
 <div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;align-items:center;">
-<<<<<<< HEAD
     <img src="https://img.shields.io/github/followers/sam-hansen?style=social" />
 </div>
-=======
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sam-hansen&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="sam-hansen" />
-    <img style="width:48%;" src="https://github-readme-stats.vercel.app/api?username=sam-hansen&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="sam-hansen" />
-    <img style="width:48%;" src="https://github-readme-streak-stats.herokuapp.com/?user=sam-hansen&theme=highcontrast&hide_border=true" alt="sam-hansen" />
-</div>
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
->>>>>>> a2a4fcd5ff46cb9c379d192ce04d8bb4095a56f9
