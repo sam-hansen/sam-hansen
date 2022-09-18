@@ -1,10 +1,11 @@
 name: Update README
 
 on:
+  pull_request:
+
   schedule:  
-    -cron: '*/30 * * * *'
-  workflow_dispatch:
-    
+    - cron: '*/30 * * * *'
+
 jobs:
   build:  
     runs-on: ubuntu-latest
