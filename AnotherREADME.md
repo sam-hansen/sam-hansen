@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD033 -->
 <h1 align="center">Hi 👋, I'm Sam!</h1>
 <h3 align="center">A passionate frontend developer from Utah</h3>
 
@@ -35,3 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sam-hansen&show_icons=true&locale=en" alt="sam-hansen" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sam-hansen&" alt="sam-hansen" /></p>
+
+<!-- markdownlint-enable MD033 -->
