@@ -1,5 +1,7 @@
 # Hi, I'm Sam <img src="./assets/Hi.gif" style="width:29px;">
 
+<section style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;align-items:center;">
+
 ## About Me
 
 Myself|
@@ -42,3 +44,5 @@ I love to create different types of **contents**.                               
 <div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;align-items:center;">
     <img src="https://img.shields.io/github/followers/sam-hansen?style=social" />
 </div>
+
+</section>
