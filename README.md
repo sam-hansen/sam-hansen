@@ -2,16 +2,12 @@
 
 ## About Me
 
-<div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;align-items:center;">
-
 Myself|
 ------|
 🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.   |
 🌱 I am currently learning **Java** and also interested in **Web Development**. |
 🎯 My Goal is to Contribute to as many **open source project** as possible.     |
 I love to create different types of **contents**.                               |
-
-</div>
 
 ### This is my [Daily.Dev](https://app.daily.dev/devcard) card
 
