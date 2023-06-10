@@ -29,13 +29,13 @@ I love to create different types of **contents**.                               
 
 <!--START_SECTION:activity-->
 
-#### Contribution Graph
+<!--#### Contribution Graph
 
 <div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;align-items:center;">
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sam-hansen&theme=dracula&hide_border=true)  
 
-</div>
+</div>-->
 
 <!--END_SECTION:activity-->
 
