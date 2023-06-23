@@ -1,0 +1,9 @@
+default: true
+MD003:
+    style: consistent
+MD013: false
+MD007:
+    indent: 4
+no-hard-tabs: false
+MD030: false
+MD033: false
