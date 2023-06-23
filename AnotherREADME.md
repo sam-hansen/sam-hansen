@@ -2,7 +2,11 @@
 <h1 align="center">Hi 👋, I'm Sam!</h1>
 <h3 align="center">A passionate frontend developer from Utah</h3>
 
-<p align="left"> <a href="https://twitter.com/samuelmhansen" target="blank"><img src="https://img.shields.io/twitter/follow/samuelmhansen?logo=twitter&style=for-the-badge" alt="samuelmhansen" /></a> </p>
+<p align="left">
+  <a href="https://twitter.com/samuelmhansen" target="blank">
+    <img src="https://img.shields.io/twitter/follow/samuelmhansen?logo=twitter&style=for-the-badge" alt="samuelmhansen">
+  </a>
+</p>
 
 - 🔭 I’m currently working on [My Portfolio](https://samhansen.us)
 
