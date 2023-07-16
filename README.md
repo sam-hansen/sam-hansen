@@ -1,4 +1,4 @@
-# Hi, I'm Sam <img src="./assets/Hi.gif" style="width:29px;">
+# Hi, I'm Sam <img src="./assets/Hi.gif" style="width:14px;">
 
 <section style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;align-items:center;">
 
@@ -9,7 +9,7 @@ Myself|
 🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.   |
 🌱 I am currently learning **Java** and also interested in **Web Development**. |
 🎯 My Goal is to Contribute to as many **open source project** as possible.     |
-I love to create different types of **contents**.                               |
+   I love to create different types of **contents**.                            |
 
 ### This is my [Daily.Dev](https://app.daily.dev/devcard) card
 
