@@ -1,4 +1,8 @@
+<<<<<<< main
 # Hi, I'm Sam <img src="./assets/Hi.gif" style="width:32px;">
+=======
+# Hi, I'm Sam <img src="./assets/Hi.gif" style="width:14px;">
+>>>>>>> origin/main
 
 <section style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;align-items:center;">
 
@@ -6,10 +10,17 @@
 
 Myself|    
 ------|
+<<<<<<< main
 🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.|
 🌱 I am currently learning **Java** and also interested in **Web Development**.|
 🎯 My Goal is to Contribute to as many **open source project** as possible.|
 I love to create different types of **contents**.|
+=======
+🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.   |
+🌱 I am currently learning **Java** and also interested in **Web Development**. |
+🎯 My Goal is to Contribute to as many **open source project** as possible.     |
+   I love to create different types of **contents**.                            |
+>>>>>>> origin/main
 
 ### This is my [Daily.Dev](https://app.daily.dev/devcard) card
 
@@ -29,16 +40,16 @@ I love to create different types of **contents**.|
 
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
-
-#### Contribution Graph
+<!--#### Contribution Graph
 
 <div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;align-items:center;">
 <img src="https://img.shields.io/github/followers/sam-hansen?style=social" />
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sam-hansen&theme=dracula&hide_border=true)  
 
-</div>
+</div>-->
+
+<!--END_SECTION:activity-->
 
 ### Connect with Me
 
