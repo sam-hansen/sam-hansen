@@ -1,5 +1,11 @@
 {
     "files.associations": {
         "*.yaml": "home-assistant"
+    },
+    "workbench.colorCustomizations": {
+        "editor.cursorColor": "#ffaacc",
+        "activityBar.background": "#121095",
+        "titleBar.activeBackground": "#1A16D1",
+        "titleBar.activeForeground": "#FDFDFF"
     }
 }
