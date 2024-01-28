@@ -41,4 +41,4 @@ Myself|
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sam-hansen&theme=dracula&hide_border=true)  
 </div>-->
 
-<proven.lol/04c7c0>
+proven.lol/04c7c0
