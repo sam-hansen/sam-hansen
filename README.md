@@ -24,7 +24,7 @@ Myself|
 <!--START_SECTION:activity-->
 <div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;align-items:center;">
     <img style="width:48%;" src="https://github-readme-stats.vercel.app/api?username=sam-hansen&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&background=45%2CEB5454%2C8C05FF&locale=en&hide_border=true" alt="sam-hansen" />
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sam-hansen&theme=highcontrast&hide_border=true&border_radius=5&card_width=490&card_height=300&background=45%2CEB5454%2C8C05FF&sideNums=00FF9F&dates=FFFFFF" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sam-hansen&theme=highcontrast&hide_border=true&border_radius=5&card_width=485&height=205&background=45%2CEB5454%2C8C05FF&sideNums=00FF9F&dates=FFFFFF" alt="GitHub Streak" /></a>
     <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sam-hansen&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="sam-hansen" />
 </div>
 <!--END_SECTION:activity-->
