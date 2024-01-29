@@ -6,10 +6,10 @@
 
 Myself|    
 ------|
-🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.   |
+🎓 I am currently pursuing my **Bachelor of Science in Software Engineering**.  |
 🌱 I am currently learning **Java** and also interested in **Web Development**. |
 🎯 My Goal is to Contribute to as many **open source project** as possible.     |
-   I love to create different types of **content**.                             |
+🎨 I love to create different types of **content**.                             |
 
 ### This is my [Daily.Dev](https://app.daily.dev/devcard) card
 
@@ -41,4 +41,5 @@ Myself|
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sam-hansen&theme=dracula&hide_border=true)  
 </div>-->
 
-proven.lol/04c7c0
+###### My Proof for [omg.lol](https://omg.lol)
+`proven.lol/04c7c0`
