@@ -41,5 +41,4 @@ Myself|
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sam-hansen&theme=dracula&hide_border=true)  
 </div>-->
 
-###### My Proof for [omg.lol](https://omg.lol)
-`proven.lol/04c7c0`
+###### My Proof for [omg.lol](https://omg.lol): `proven.lol/04c7c0`
