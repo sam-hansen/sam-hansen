@@ -23,7 +23,7 @@ Myself|
 
 <!--START_SECTION:activity-->
 <div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;align-items:center;">
-    <img style="width:48%;" src="https://github-readme-stats.vercel.app/api?username=sam-hansen&show_icons=true&theme=dracula&title_color=00ffaa&text_color=ffffff&bg_color=45,EB5454,8C05FF&locale=en&hide_border=true&card_width=485&rank_icon=github" alt="sam-hansen" />
+    <img style="width:48%;" src="https://github-readme-stats.vercel.app/api?username=sam-hansen&title_color=0fa&text_color=fff&bg_color=45,eb5454,8c05ff&hide_border=true&card_width=485&rank_icon=github" alt="sam-hansen" />
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sam-hansen&theme=highcontrast&hide_border=true&border_radius=5&card_width=485&background=45%2CEB5454%2C8C05FF&sideNums=00FFAA&dates=FFFFFF" alt="GitHub Streak" /></a>
 </div>
 <!--END_SECTION:activity-->
