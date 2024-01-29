@@ -22,14 +22,13 @@ Myself|
 ### Github Stats📈
 
 <!--START_SECTION:activity-->
-<div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;align-items:center;">
+<div align="center">
     <img style="width:48%;" src="https://github-readme-stats.vercel.app/api?username=sam-hansen&title_color=0fa&text_color=fff&bg_color=45,eb5454,8c05ff&hide_border=true&card_width=485&rank_icon=github" alt="sam-hansen" />
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sam-hansen&theme=highcontrast&hide_border=true&border_radius=5&card_width=485&background=45%2CEB5454%2C8C05FF&sideNums=00FFAA&dates=FFFFFF" alt="GitHub Streak" /></a>
 </div>
 <!--END_SECTION:activity-->
 
-### Connect with Me
-
+<!--My Socials and Contacts-->
 <p align="center">
     <a href="https://codepen.io/sam-hansen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sam-hansen" height="30" width="40" /></a>
     <a href="https://dev.to/sammihansen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sammihansen" height="30" width="40" /></a>
@@ -43,8 +42,9 @@ Myself|
     <a href="https://www.behance.net/smhansen07@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="smhansen07@gmail.com" height="30" width="40" /></a>
 </p>
 
-
 </section>
+
+My Proof for [omg.lol](https://omg.lol): `proven.lol/04c7c0`
 
 <!--#### Contribution Graph
 <div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;align-items:center;">
@@ -53,4 +53,3 @@ Myself|
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sam-hansen&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="sam-hansen" />
 </div>-->
 
-###### My Proof for [omg.lol](https://omg.lol): `proven.lol/04c7c0`
