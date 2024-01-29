@@ -22,10 +22,10 @@ Myself|
 ### Github Stats📈
 
 <!--START_SECTION:activity-->
-<div align="center">
-    <img style="width:48%;" src="https://github-readme-stats.vercel.app/api?username=sam-hansen&title_color=0fa&text_color=fff&bg_color=45,eb5454,8c05ff&hide_border=true&card_width=485&rank_icon=github" alt="sam-hansen" />
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sam-hansen&theme=highcontrast&hide_border=true&border_radius=5&card_width=485&background=45%2CEB5454%2C8C05FF&sideNums=00FFAA&dates=FFFFFF" alt="GitHub Streak" /></a>
-</div>
+1. 🎉 Merged PR [#51](https://github.com/sam-hansen/portfolio/pull/51) in [sam-hansen/portfolio](https://github.com/sam-hansen/portfolio)
+2. 🎉 Merged PR [#15](https://github.com/sam-hansen/taskbox/pull/15) in [sam-hansen/taskbox](https://github.com/sam-hansen/taskbox)
+3. 🎉 Merged PR [#47](https://github.com/sam-hansen/first-contributions/pull/47) in [sam-hansen/first-contributions](https://github.com/sam-hansen/first-contributions)
+4. ❗ Opened issue [#2](https://github.com/qspidy/github-slideshow/issues/2) in [qspidy/github-slideshow](https://github.com/qspidy/github-slideshow)
 <!--END_SECTION:activity-->
 
 <!--My Socials and Contacts-->
