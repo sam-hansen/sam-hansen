@@ -7,6 +7,9 @@
 - 👨‍💻 All of my projects are available at [https://samhansen.us](https://samhansen.us)
 - 📫 How to reach me **<sam.hans24@yahoo.com>**
 
+<!-- Previous Daily.Dev Card -->
+<a href="https://app.daily.dev/samhansen"><img src="https://api.daily.dev/devcards/309b8fbde4e54feaa32b8e28a8b42372.png?r=pu0" width="400" alt="Sam Hansen's Dev Card" /></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://codepen.io/sam-hansen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sam-hansen" height="30" width="40" /></a>
