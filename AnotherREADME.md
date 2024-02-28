@@ -1,5 +1,3 @@
-<!-- markdownlint-disable MD033 -->
-
 <h1 align="center">Hi 👋, I'm Sam!</h1>
 <h3 align="center">A passionate frontend developer from Utah</h3>
 
@@ -71,5 +69,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sam-hansen&show_icons=true&locale=en" alt="sam-hansen" /></p>
 
 <!-- <p align="left"><a href="https://twitter.com/samuelmhansen" target="blank"><img src="https://img.shields.io/twitter/follow/samuelmhansen?logo=twitter&style=for-the-badge" alt="samuelmhansen"></a></p> -->
-
-<!-- markdownlint-enable MD033 -->
