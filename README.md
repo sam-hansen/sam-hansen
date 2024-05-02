@@ -20,10 +20,10 @@ Myself|
 ### Github Stats📈
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2](https://github.com/qspidy/github-slideshow/issues/2) in [qspidy/github-slideshow](https://github.com/qspidy/github-slideshow)
-2. 🎉 Merged PR [#28](https://github.com/sam-hansen/exercism.io/pull/28) in [sam-hansen/exercism.io](https://github.com/sam-hansen/exercism.io)
-3. 🎉 Merged PR [#20](https://github.com/sam-hansen/snap-monorepo/pull/20) in [sam-hansen/snap-monorepo](https://github.com/sam-hansen/snap-monorepo)
-4. 🎉 Merged PR [#19](https://github.com/sam-hansen/snap-monorepo/pull/19) in [sam-hansen/snap-monorepo](https://github.com/sam-hansen/snap-monorepo)
+1. 🎉 Merged PR [#55](https://github.com/sam-hansen/portfolio/pull/55) in [sam-hansen/portfolio](https://github.com/sam-hansen/portfolio)
+2. 🎉 Merged PR [#54](https://github.com/sam-hansen/portfolio/pull/54) in [sam-hansen/portfolio](https://github.com/sam-hansen/portfolio)
+3. 🎉 Merged PR [#53](https://github.com/sam-hansen/first-contributions/pull/53) in [sam-hansen/first-contributions](https://github.com/sam-hansen/first-contributions)
+4. 🎉 Merged PR [#51](https://github.com/sam-hansen/first-contributions/pull/51) in [sam-hansen/first-contributions](https://github.com/sam-hansen/first-contributions)
 <!--END_SECTION:activity-->
 
 <!--My Socials and Contacts-->
