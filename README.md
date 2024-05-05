@@ -20,10 +20,10 @@ Myself|
 ### Github Stats📈
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#55](https://github.com/sam-hansen/portfolio/pull/55) in [sam-hansen/portfolio](https://github.com/sam-hansen/portfolio)
-2. 🎉 Merged PR [#54](https://github.com/sam-hansen/portfolio/pull/54) in [sam-hansen/portfolio](https://github.com/sam-hansen/portfolio)
-3. 🎉 Merged PR [#53](https://github.com/sam-hansen/first-contributions/pull/53) in [sam-hansen/first-contributions](https://github.com/sam-hansen/first-contributions)
-4. 🎉 Merged PR [#51](https://github.com/sam-hansen/first-contributions/pull/51) in [sam-hansen/first-contributions](https://github.com/sam-hansen/first-contributions)
+1. 🎉 Merged PR [#21](https://github.com/sam-hansen/snap-monorepo/pull/21) in [sam-hansen/snap-monorepo](https://github.com/sam-hansen/snap-monorepo)
+2. 🎉 Merged PR [#22](https://github.com/sam-hansen/snap-monorepo/pull/22) in [sam-hansen/snap-monorepo](https://github.com/sam-hansen/snap-monorepo)
+3. 🎉 Merged PR [#55](https://github.com/sam-hansen/portfolio/pull/55) in [sam-hansen/portfolio](https://github.com/sam-hansen/portfolio)
+4. 🎉 Merged PR [#54](https://github.com/sam-hansen/portfolio/pull/54) in [sam-hansen/portfolio](https://github.com/sam-hansen/portfolio)
 <!--END_SECTION:activity-->
 
 <!--My Socials and Contacts-->
