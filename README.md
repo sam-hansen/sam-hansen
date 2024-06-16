@@ -20,10 +20,10 @@ Myself|
 ### Github Stats📈
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/sam-hansen/snap-monorepo/pull/21) in [sam-hansen/snap-monorepo](https://github.com/sam-hansen/snap-monorepo)
-2. 🎉 Merged PR [#22](https://github.com/sam-hansen/snap-monorepo/pull/22) in [sam-hansen/snap-monorepo](https://github.com/sam-hansen/snap-monorepo)
-3. 🎉 Merged PR [#55](https://github.com/sam-hansen/portfolio/pull/55) in [sam-hansen/portfolio](https://github.com/sam-hansen/portfolio)
-4. 🎉 Merged PR [#54](https://github.com/sam-hansen/portfolio/pull/54) in [sam-hansen/portfolio](https://github.com/sam-hansen/portfolio)
+1. 🎉 Merged PR [#11](https://github.com/sam-hansen/coolhue/pull/11) in [sam-hansen/coolhue](https://github.com/sam-hansen/coolhue)
+2. 🎉 Merged PR [#10](https://github.com/sam-hansen/coolhue/pull/10) in [sam-hansen/coolhue](https://github.com/sam-hansen/coolhue)
+3. 🎉 Merged PR [#5](https://github.com/sam-hansen/coolhue/pull/5) in [sam-hansen/coolhue](https://github.com/sam-hansen/coolhue)
+4. 🎉 Merged PR [#4](https://github.com/sam-hansen/coolhue/pull/4) in [sam-hansen/coolhue](https://github.com/sam-hansen/coolhue)
 <!--END_SECTION:activity-->
 
 <!--My Socials and Contacts-->
