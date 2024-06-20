@@ -20,10 +20,10 @@ Myself|
 ### Github Stats📈
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/sam-hansen/coolhue/pull/11) in [sam-hansen/coolhue](https://github.com/sam-hansen/coolhue)
-2. 🎉 Merged PR [#10](https://github.com/sam-hansen/coolhue/pull/10) in [sam-hansen/coolhue](https://github.com/sam-hansen/coolhue)
-3. 🎉 Merged PR [#5](https://github.com/sam-hansen/coolhue/pull/5) in [sam-hansen/coolhue](https://github.com/sam-hansen/coolhue)
-4. 🎉 Merged PR [#4](https://github.com/sam-hansen/coolhue/pull/4) in [sam-hansen/coolhue](https://github.com/sam-hansen/coolhue)
+1. 🎉 Merged PR [#285](https://github.com/sam-hansen/RSSHub/pull/285) in [sam-hansen/RSSHub](https://github.com/sam-hansen/RSSHub)
+2. 🎉 Merged PR [#283](https://github.com/sam-hansen/RSSHub/pull/283) in [sam-hansen/RSSHub](https://github.com/sam-hansen/RSSHub)
+3. 🎉 Merged PR [#315](https://github.com/sam-hansen/RSSHub/pull/315) in [sam-hansen/RSSHub](https://github.com/sam-hansen/RSSHub)
+4. 🎉 Merged PR [#305](https://github.com/sam-hansen/RSSHub/pull/305) in [sam-hansen/RSSHub](https://github.com/sam-hansen/RSSHub)
 <!--END_SECTION:activity-->
 
 <!--My Socials and Contacts-->
