@@ -20,10 +20,10 @@ Myself|
 ### Github Stats📈
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#325](https://github.com/sam-hansen/RSSHub/pull/325) in [sam-hansen/RSSHub](https://github.com/sam-hansen/RSSHub)
-2. 🎉 Merged PR [#332](https://github.com/sam-hansen/RSSHub/pull/332) in [sam-hansen/RSSHub](https://github.com/sam-hansen/RSSHub)
-3. 🎉 Merged PR [#330](https://github.com/sam-hansen/RSSHub/pull/330) in [sam-hansen/RSSHub](https://github.com/sam-hansen/RSSHub)
-4. 🎉 Merged PR [#324](https://github.com/sam-hansen/RSSHub/pull/324) in [sam-hansen/RSSHub](https://github.com/sam-hansen/RSSHub)
+1. 🎉 Merged PR [#2](https://github.com/sam-hansen/choosealicense.com/pull/2) in [sam-hansen/choosealicense.com](https://github.com/sam-hansen/choosealicense.com)
+2. 🎉 Merged PR [#325](https://github.com/sam-hansen/RSSHub/pull/325) in [sam-hansen/RSSHub](https://github.com/sam-hansen/RSSHub)
+3. 🎉 Merged PR [#332](https://github.com/sam-hansen/RSSHub/pull/332) in [sam-hansen/RSSHub](https://github.com/sam-hansen/RSSHub)
+4. 🎉 Merged PR [#330](https://github.com/sam-hansen/RSSHub/pull/330) in [sam-hansen/RSSHub](https://github.com/sam-hansen/RSSHub)
 <!--END_SECTION:activity-->
 
 <!--My Socials and Contacts-->
