@@ -45,9 +45,6 @@ Myself|
 
 </section>
 
-
-<div align="center">
-
 ### Github Stats📈
 
 <!--START_SECTION:activity-->
@@ -59,9 +56,9 @@ Myself|
 
 ![Followers Badge](https://img.shields.io/github/followers/sam-hansen?style=social)
 
-</div>
 
-My Proof for [omg.lol](https://omg.lol): `proven.lol/04c7c0`
+
+<sub>My Proof for [omg.lol](https://omg.lol): `proven.lol/04c7c0`</sub>
 
 <!--#### Contribution Graph
 <div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;align-items:center;">
