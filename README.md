@@ -1,6 +1,6 @@
 # Hi, I'm Sam <img src="./assets/Hi.gif" style="width:32px;">
 
-<section style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;align-items:center;">
+<section style="display:flex; flex-direction:row; flex-wrap:wrap; justify-content:center; align-items:center;">
 
 ## About Me
     
@@ -42,9 +42,12 @@ Myself|
 
 </section>
 
+<img src=“https://img.shields.io/github/followers/sam-hansen?style=social” />
+
+![Followers Badge](https://img.shields.io/github/followers/sam-hansen?style=social)
+
 My Proof for [omg.lol](https://omg.lol): `proven.lol/04c7c0`
 
-<img src=“https://img.shields.io/github/followers/sam-hansen?style=social” />
 <!--#### Contribution Graph
 <div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;align-items:center;">
 <img src="https://img.shields.io/github/followers/sam-hansen?style=social" />
