@@ -1,6 +1,12 @@
+<div align="center" style="background:linear-gradient(45deg,#00ffaa,#fff);">
+
 # Hi, I'm Sam <img src="./assets/Hi.gif" style="width:32px;">
 
-<section style="display:flex; flex-direction:row; flex-wrap:wrap; justify-content:center; align-items:center;">
+</div>
+
+<section align="center">
+
+<div align="center">
 
 ## About Me
     
@@ -11,20 +17,17 @@ Myself|
 🎯 My Goal is to Contribute to as many **open source project** as possible.     |
 🎨 I love to create different types of **content**.                             |
 
+</div>
+
+<div align="center">
+
 ### This is my [Daily.Dev](https://app.daily.dev/devcard) card
     
 <div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;align-items:center;">
     <a href="https://app.daily.dev/samhansen"><img src="https://api.daily.dev/devcards/v2/9GcnViGGikysK3RLVFZQc.png?r=004&type=default" width="356" alt="Sam Hansen's Dev Card"/></a>
 </div>
-    
-### Github Stats📈
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/sam-hansen/choosealicense.com/pull/3) in [sam-hansen/choosealicense.com](https://github.com/sam-hansen/choosealicense.com)
-2. 🎉 Merged PR [#2](https://github.com/sam-hansen/choosealicense.com/pull/2) in [sam-hansen/choosealicense.com](https://github.com/sam-hansen/choosealicense.com)
-3. 🎉 Merged PR [#325](https://github.com/sam-hansen/RSSHub/pull/325) in [sam-hansen/RSSHub](https://github.com/sam-hansen/RSSHub)
-4. 🎉 Merged PR [#332](https://github.com/sam-hansen/RSSHub/pull/332) in [sam-hansen/RSSHub](https://github.com/sam-hansen/RSSHub)
-<!--END_SECTION:activity-->
+</div>
 
 <!--My Socials and Contacts-->
 <p align="center">
@@ -42,9 +45,21 @@ Myself|
 
 </section>
 
-<img src=“https://img.shields.io/github/followers/sam-hansen?style=social” />
+
+<div align="center">
+
+### Github Stats📈
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#3](https://github.com/sam-hansen/choosealicense.com/pull/3) in [sam-hansen/choosealicense.com](https://github.com/sam-hansen/choosealicense.com)
+2. 🎉 Merged PR [#2](https://github.com/sam-hansen/choosealicense.com/pull/2) in [sam-hansen/choosealicense.com](https://github.com/sam-hansen/choosealicense.com)
+3. 🎉 Merged PR [#325](https://github.com/sam-hansen/RSSHub/pull/325) in [sam-hansen/RSSHub](https://github.com/sam-hansen/RSSHub)
+4. 🎉 Merged PR [#332](https://github.com/sam-hansen/RSSHub/pull/332) in [sam-hansen/RSSHub](https://github.com/sam-hansen/RSSHub)
+<!--END_SECTION:activity-->
 
 ![Followers Badge](https://img.shields.io/github/followers/sam-hansen?style=social)
+
+</div>
 
 My Proof for [omg.lol](https://omg.lol): `proven.lol/04c7c0`
 
