@@ -24,7 +24,7 @@ Myself|
 ### This is my [Daily.Dev](https://app.daily.dev/devcard) card
     
 <div style="display:flex;flex-direction:row;flex-wrap:wrap;justify-content:center;align-items:center;">
-    <a href="https://app.daily.dev/samhansen"><img src="https://api.daily.dev/devcards/v2/9GcnViGGikysK3RLVFZQc.png?r=004&type=default" width="356" alt="Sam Hansen's Dev Card"/></a>
+    <a href="https://app.daily.dev/samhansen"><img src="https://api.daily.dev/devcards/v2/9GcnViGGikysK3RLVFZQc.png?type=default&r=b1z" width="356" alt="Sam Hansen's Dev Card"/></a>
 </div>
 
 </div>
