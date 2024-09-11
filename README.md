@@ -48,10 +48,10 @@ Myself|
 ### Github Stats📈
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/sam-hansen/openvscode-releases/pull/1) in [sam-hansen/openvscode-releases](https://github.com/sam-hansen/openvscode-releases)
-2. 🎉 Merged PR [#5](https://github.com/sam-hansen/choosealicense.com/pull/5) in [sam-hansen/choosealicense.com](https://github.com/sam-hansen/choosealicense.com)
-3. 🎉 Merged PR [#4](https://github.com/sam-hansen/choosealicense.com/pull/4) in [sam-hansen/choosealicense.com](https://github.com/sam-hansen/choosealicense.com)
-4. 🎉 Merged PR [#26](https://github.com/sam-hansen/snap-monorepo/pull/26) in [sam-hansen/snap-monorepo](https://github.com/sam-hansen/snap-monorepo)
+1. 🎉 Merged PR [#59](https://github.com/sam-hansen/portfolio/pull/59) in [sam-hansen/portfolio](https://github.com/sam-hansen/portfolio)
+2. 🎉 Merged PR [#1](https://github.com/sam-hansen/openvscode-releases/pull/1) in [sam-hansen/openvscode-releases](https://github.com/sam-hansen/openvscode-releases)
+3. 🎉 Merged PR [#5](https://github.com/sam-hansen/choosealicense.com/pull/5) in [sam-hansen/choosealicense.com](https://github.com/sam-hansen/choosealicense.com)
+4. 🎉 Merged PR [#4](https://github.com/sam-hansen/choosealicense.com/pull/4) in [sam-hansen/choosealicense.com](https://github.com/sam-hansen/choosealicense.com)
 <!--END_SECTION:activity-->
 
 ![Followers Badge](https://img.shields.io/github/followers/sam-hansen?style=social)
