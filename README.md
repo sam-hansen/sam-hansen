@@ -48,10 +48,10 @@ Myself|
 ### Github Stats📈
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#59](https://github.com/sam-hansen/portfolio/pull/59) in [sam-hansen/portfolio](https://github.com/sam-hansen/portfolio)
-2. 🎉 Merged PR [#1](https://github.com/sam-hansen/openvscode-releases/pull/1) in [sam-hansen/openvscode-releases](https://github.com/sam-hansen/openvscode-releases)
-3. 🎉 Merged PR [#5](https://github.com/sam-hansen/choosealicense.com/pull/5) in [sam-hansen/choosealicense.com](https://github.com/sam-hansen/choosealicense.com)
-4. 🎉 Merged PR [#4](https://github.com/sam-hansen/choosealicense.com/pull/4) in [sam-hansen/choosealicense.com](https://github.com/sam-hansen/choosealicense.com)
+1. 🎉 Merged PR [#15](https://github.com/sam-hansen/coolhue/pull/15) in [sam-hansen/coolhue](https://github.com/sam-hansen/coolhue)
+2. 🎉 Merged PR [#13](https://github.com/sam-hansen/coolhue/pull/13) in [sam-hansen/coolhue](https://github.com/sam-hansen/coolhue)
+3. 🎉 Merged PR [#28](https://github.com/sam-hansen/snap-monorepo/pull/28) in [sam-hansen/snap-monorepo](https://github.com/sam-hansen/snap-monorepo)
+4. 🎉 Merged PR [#63](https://github.com/sam-hansen/portfolio/pull/63) in [sam-hansen/portfolio](https://github.com/sam-hansen/portfolio)
 <!--END_SECTION:activity-->
 
 ![Followers Badge](https://img.shields.io/github/followers/sam-hansen?style=social)
