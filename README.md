@@ -48,10 +48,10 @@ Myself|
 ### Github Stats📈
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/sam-hansen/coolhue/pull/15) in [sam-hansen/coolhue](https://github.com/sam-hansen/coolhue)
-2. 🎉 Merged PR [#13](https://github.com/sam-hansen/coolhue/pull/13) in [sam-hansen/coolhue](https://github.com/sam-hansen/coolhue)
-3. 🎉 Merged PR [#28](https://github.com/sam-hansen/snap-monorepo/pull/28) in [sam-hansen/snap-monorepo](https://github.com/sam-hansen/snap-monorepo)
-4. 🎉 Merged PR [#63](https://github.com/sam-hansen/portfolio/pull/63) in [sam-hansen/portfolio](https://github.com/sam-hansen/portfolio)
+1. 🎉 Merged PR [#2](https://github.com/sam-hansen/developer-setup/pull/2) in [sam-hansen/developer-setup](https://github.com/sam-hansen/developer-setup)
+2. 🎉 Merged PR [#15](https://github.com/sam-hansen/coolhue/pull/15) in [sam-hansen/coolhue](https://github.com/sam-hansen/coolhue)
+3. 🎉 Merged PR [#13](https://github.com/sam-hansen/coolhue/pull/13) in [sam-hansen/coolhue](https://github.com/sam-hansen/coolhue)
+4. 🎉 Merged PR [#28](https://github.com/sam-hansen/snap-monorepo/pull/28) in [sam-hansen/snap-monorepo](https://github.com/sam-hansen/snap-monorepo)
 <!--END_SECTION:activity-->
 
 ![Followers Badge](https://img.shields.io/github/followers/sam-hansen?style=social)
